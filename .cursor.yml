@@ -1,0 +1,6 @@
+project_type: instructional
+description: Python and SQL basics workshop materials
+metadata:
+  purpose: teaching
+  audience: beginners
+  notes: All code should be kept as simple as possible for educational purposes 
